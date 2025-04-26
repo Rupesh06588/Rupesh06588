@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rupesh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning fundamentals.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the ...
 - 📫 How to reach me -->  rupeshreshmi12@gmail.com
 
 <!---
