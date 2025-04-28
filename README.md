@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh06588&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh06588" /> </p>
 
-- 🔭 I’m currently working on **Building Small Python Projects like calculator n**
+- 🔭 I’m currently working on **Building Small Python Projects like calculator and to-do app**
 
 - 🌱 I’m currently learning **Python, OOPs and MySQL**
 
