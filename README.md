@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupesh06588" alt="rupesh06588" /></a> </p>
 
-- 🔭 I’m currently working on **Building Small Python Projects like calculator n**
+- 🔭 I’m currently working on **Building Small Python Projects like calculator, to-do app**
 
 - 🌱 I’m currently learning **Python, OOPs and MySQL**
 
